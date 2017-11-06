@@ -23,7 +23,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.android.rivchat.MainActivity;
-import com.android.rivchat.R;
+import com.rakeshgopathi.firebasechat.R;
 import com.android.rivchat.data.SharedPreferenceHelper;
 import com.android.rivchat.data.StaticConfig;
 import com.android.rivchat.model.User;
@@ -33,8 +33,6 @@ import com.yarolegovich.lovelydialog.LovelyProgressDialog;
 import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-
 
 public class LoginActivity extends AppCompatActivity {
     private static String TAG = "LoginActivity";

@@ -25,6 +25,7 @@ import com.android.rivchat.ui.FriendsFragment;
 import com.android.rivchat.ui.GroupFragment;
 import com.android.rivchat.ui.LoginActivity;
 import com.android.rivchat.ui.UserProfileFragment;
+import com.rakeshgopathi.firebasechat.R;
 
 import java.util.ArrayList;
 import java.util.List;

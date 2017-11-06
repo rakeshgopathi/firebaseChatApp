@@ -16,8 +16,9 @@ import android.view.animation.AccelerateInterpolator;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.android.rivchat.R;
+
 import com.android.rivchat.data.StaticConfig;
+import com.rakeshgopathi.firebasechat.R;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

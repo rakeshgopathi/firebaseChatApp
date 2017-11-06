@@ -30,12 +30,12 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.android.rivchat.R;
 import com.android.rivchat.data.FriendDB;
 import com.android.rivchat.data.GroupDB;
 import com.android.rivchat.data.StaticConfig;
 import com.android.rivchat.model.Group;
 import com.android.rivchat.model.ListFriend;
+import com.rakeshgopathi.firebasechat.R;
 import com.yarolegovich.lovelydialog.LovelyInfoDialog;
 import com.yarolegovich.lovelydialog.LovelyProgressDialog;
 
